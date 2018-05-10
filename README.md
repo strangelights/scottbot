@@ -1,0 +1,1 @@
+A lightweight utility for quickly retrieving graphical interchange format images of Michael Gary Scott based on mood keywords.
